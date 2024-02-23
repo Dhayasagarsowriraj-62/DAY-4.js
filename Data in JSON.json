@@ -1,0 +1,23 @@
+  "name": "dhaya sagar",
+  "mail": "dhayadeva1999@gmail.com",
+  "education": [
+    {
+      "degree": "DRDT",
+      "institute": "Kings university",
+    },
+    {
+      "degree": "HSC",
+      "institute": "Govt Hr Sec School",
+    },
+    {
+      "degree": "SSLC",
+      "institute": "Govt Hr Sec School",
+    }
+  ],
+  "course": {
+    "institute": "GUVI",
+    "year": "2024",
+    "course": "FSD",
+    "Batch": "FSD56WE-T"
+  }
+}
